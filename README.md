@@ -1,4 +1,4 @@
-# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M2
+.# 19AI304-Fundamentals-of-C-Programming-2025-Odd-M2
 # IAPR-2- Module 2 - FoC
 ## 3. Implementation of programs using conditional statements.
 ## 4. Implementation of programs using various control statements.
@@ -56,7 +56,9 @@
 ### Step 11:
   Stop
 # Program:
+![2 1](https://github.com/user-attachments/assets/1ee78b1d-432e-49cc-9753-8c93e7b35d6b)
 # Output:
+![2 1output](https://github.com/user-attachments/assets/d2b1257a-6409-40c6-9b14-e3b3221bfded)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -86,9 +88,10 @@ Thus, the program was implemented and executed successfully, and the required ou
   b. Print the result in the format: number x i = result.
 ### Step 6: 
   Stop
-
 # Program:
+![2 2](https://github.com/user-attachments/assets/8885c3c1-a4dd-4ea5-a0be-1f9585155692)
 # Output:
+![2 2 output](https://github.com/user-attachments/assets/5857fe29-0cf4-43e0-b282-9c66fffe98b5)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -132,6 +135,7 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 # Program:
 # Output:
+![2 3 output](https://github.com/user-attachments/assets/ff703939-8813-4de9-a711-06c702468400)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -179,7 +183,9 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+![2 4](https://github.com/user-attachments/assets/e6b293b2-bd18-497f-8f8b-03a0a64ecc0b)
 # Output:
+![2 4output](https://github.com/user-attachments/assets/f4d09ccf-ac25-4db4-bd4c-ea57074c87df)
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -232,6 +238,12 @@ Thus, the program was implemented and executed successfully, and the required ou
   Decrease i by 1 and go back to Step 6.
 ### Step 8:
   Stop
+# Program:
+![2 5](https://github.com/user-attachments/assets/f5351d67-7294-40e5-9ee5-ef23c91aa162)
+# Output:
+![2 5output](https://github.com/user-attachments/assets/cd165021-fa97-4e75-b73a-a0985dc88c40)
+
+  
 # Result:
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
