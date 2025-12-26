@@ -134,6 +134,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7:   
   Stop
 # Program:
+<img width="947" height="614" alt="Screenshot 2025-12-26 205054" src="https://github.com/user-attachments/assets/a24c8ae1-0819-4e6e-8859-2ab16f5b2935" />
 # Output:
 ![2 3 output](https://github.com/user-attachments/assets/ff703939-8813-4de9-a711-06c702468400)
 # Result: 
